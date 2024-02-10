@@ -3,7 +3,7 @@ TgCrypto==1.2.5
 requests
 pyromod==1.5
 yt-dlp==2023.6.22
-aiohttp
+aiohttp==3.8.4
 aiofiles
 ffmpeg
 ffprobe
