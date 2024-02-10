@@ -1,9 +1,9 @@
-pyrogram==2.0.106
+pyrogram
 TgCrypto==1.2.5
 requests
 pyromod==1.5
 yt-dlp==2023.6.22
-aiohttp==3.8.4
+aiohttp==3.8.1
 aiofiles
 ffmpeg
 ffprobe
